@@ -14,3 +14,8 @@ temperature = input()
 temperature = (temperature * 9 / 5) + 32
 print(f"That's {temperature} Degrees Fahrenheit!")
 ```
+
+### DAY ONE GITHUB TASKS
+- [x] Introduction to Github
+- [ ] Communicate using Markdown
+- [ ] GitHub Pages
